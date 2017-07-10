@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Samples\Interactive Windows 1\Debug\CSCreateProcessAsUserFromService.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Samples\Interactive Windows 1\Debug\CSCreateProcessAsUserFromService.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Samples\Interactive Windows 1\CSCreateProcessAsUserFromService\obj\x86\Debug\CSCreateProcessAsUserFromService.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Samples\Interactive Windows 1\CSCreateProcessAsUserFromService\obj\x86\Debug\CSCreateProcessAsUserFromService.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Samples\Interactive Windows 1\CSCreateProcessAsUserFromService\obj\x86\Debug\CSCreateProcessAsUserFromService.pdb
